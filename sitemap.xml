@@ -2,13 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/categories/</loc>
+=======
+    <loc>http://localhost:1313/post/demo/</loc>
+    <lastmod>2020-05-25T13:52:03+08:00</lastmod>
+>>>>>>> c42b5c6... rebuild
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/</loc>
+<<<<<<< HEAD
+=======
+    <lastmod>2020-05-25T13:52:03+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2020-05-25T13:52:03+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/world/</loc>
+    <lastmod>2020-05-25T13:40:18+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/hello/</loc>
+    <lastmod>2020-05-25T13:32:39+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/cpp/</loc>
+    <lastmod>2020-05-25T12:15:28+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/cpp/my-first-post/</loc>
+    <lastmod>2020-05-25T12:15:28+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+>>>>>>> c42b5c6... rebuild
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
