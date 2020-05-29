@@ -6,46 +6,9 @@
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2020 13:52:03 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Demo</title>
-      <link>http://localhost:1313/post/demo/</link>
-      <pubDate>Mon, 25 May 2020 13:52:03 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>World</title>
-      <link>http://localhost:1313/post/world/</link>
-      <pubDate>Mon, 25 May 2020 13:40:18 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/world/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>http://localhost:1313/post/hello/</link>
-      <pubDate>Mon, 25 May 2020 13:32:39 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/hello/</guid>
-      <description>hi, younger </description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/cpp/my-first-post/</link>
-      <pubDate>Mon, 25 May 2020 12:15:28 +0800</pubDate>
-      
-      <guid>http://localhost:1313/cpp/my-first-post/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
